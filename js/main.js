@@ -316,7 +316,7 @@ $(function () {
 
     function next() {
         current++;
-        if (current > max - 1) current - 0;
+        if (current > max - 1) current = 0;
         animate("next");
     }
 

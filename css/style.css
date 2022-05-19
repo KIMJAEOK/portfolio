@@ -91,7 +91,7 @@ section#portfolio .portfolio_main dl dt{width: 700px; height: 620px;}
     
 /* pf_01 */
 .portfolio_main dl:nth-child(1) {position: relative;}
-.portfolio_main dl:nth-child(1) dt {background: url("../images/pf1.png") no-repeat 120px 120px; background-size: 85%;}
+.portfolio_main dl:nth-child(1) dt {background: url("../images/pf1.png") no-repeat 120px 70px; background-size: 85%;}
 .portfolio_main dl:nth-child(1) dd {position: absolute; top: 100px; right: 100px; width: 450px;}
 .portfolio_main dl:nth-child(1) dd h4 {font-size: 15px; margin-bottom: 10px;}
 .portfolio_main dl:nth-child(1) dd h5 {font-size: 50px; margin-bottom: 10px; font-weight: 100;}
@@ -121,7 +121,7 @@ section#portfolio .portfolio_main dl dt{width: 700px; height: 620px;}
 
 /* pf-04 */
 #wrap section#portfolio .portfolio_main dl:nth-child(4) {position: relative;}
-#wrap section#portfolio .portfolio_main dl:nth-child(4) dt {background: url("../images/pf4.png") no-repeat 0 190px; background-size: 75%; float: right;}
+#wrap section#portfolio .portfolio_main dl:nth-child(4) dt {background: url("../images/pf4.png") no-repeat 0 150px; background-size: 75%; float: right;}
 #wrap section#portfolio .portfolio_main dl:nth-child(4) dd {position: absolute; top: 100px; left: 100px;width: 450px; margin-top: 50px; margin-left: 50px; text-align: right;}
 #wrap section#portfolio .portfolio_main dl:nth-child(4) dd h4 {font-size: 15px; margin-bottom: 10px;}
 #wrap section#portfolio .portfolio_main dl:nth-child(4) dd h5 {font-size: 50px; margin-bottom: 10px; font-weight: 100;} 
@@ -131,7 +131,7 @@ section#portfolio .portfolio_main dl dt{width: 700px; height: 620px;}
 
 /* pf-05 */
 #wrap section#portfolio .portfolio_main dl:nth-child(5) {position: relative;clear: both;}
-#wrap section#portfolio .portfolio_main dl:nth-child(5) dt {background: url("../images/pf5.png") no-repeat center 100px; background-size: 95%;}
+#wrap section#portfolio .portfolio_main dl:nth-child(5) dt {background: url("../images/pf5.png") no-repeat center 50px; background-size: 95%;}
 #wrap section#portfolio .portfolio_main dl:nth-child(5) dd {position: absolute; top: 100px; right: 100px;width: 450px; margin-top: 50px; margin-left: 50px;}
 #wrap section#portfolio .portfolio_main dl:nth-child(5) dd h4 {font-size: 15px; margin-bottom: 10px;}
 #wrap section#portfolio .portfolio_main dl:nth-child(5) dd h5 {font-size: 50px; margin-bottom: 10px; font-weight: 100;}
